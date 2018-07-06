@@ -1,0 +1,2 @@
+ex17.py will copy this texxt from this file ex17a.txt to ex17b.txt by running the script ex17.py
+
